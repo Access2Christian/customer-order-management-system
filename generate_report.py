@@ -99,7 +99,7 @@ def create_report():
     and <code>main.py</code>) to fulfill professional design abstractions, decouple software logic, and enforce high maintainability.<br/><br/>
     <b>Remote Assignment Delivery Links:</b><br/>
     • GitHub Source Code Link: <u>https://github.com</u><br/>
-    • OneDrive Institutional Cloud Share: <u>https://google.com</u>
+    • Google Drive Institutional Cloud Share: <u>https://drive.google.com/drive/folders/1pSo8X8BwN5-3MMcPNWQij9KXC6ssh8vG?usp=sharing</u>
     """
     story.append(Paragraph(exec_p, body_style))
     add_screenshot_figure("fig1.png", "Figure 1: Version control deployment pipeline verification sync (Git Push to Remote Main Branch)")
