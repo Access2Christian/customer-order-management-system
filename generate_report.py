@@ -98,7 +98,7 @@ def create_report():
     The codebase is split into clean modules (<code>queue_module.py</code>, <code>linkedlist.py</code>, <code>stack.py</code>, 
     and <code>main.py</code>) to fulfill professional design abstractions, decouple software logic, and enforce high maintainability.<br/><br/>
     <b>Remote Assignment Delivery Links:</b><br/>
-    • GitHub Source Code Link: <u>https://github.com</u><br/>
+    • GitHub Source Code Link: <u>https://github.com/Access2Christian/customer-order-management-system.git</u><br/>
     • Google Drive Institutional Cloud Share: <u>https://drive.google.com/drive/folders/1pSo8X8BwN5-3MMcPNWQij9KXC6ssh8vG?usp=sharing</u>
     """
     story.append(Paragraph(exec_p, body_style))
